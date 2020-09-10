@@ -6,6 +6,13 @@ This Project is sample for entire Spring Stuffs:
 - Spring Zuul
 - Spring demo applicaiton using the above setup
 
+This sample application demostrates:
+- Spring boot microservices creation e.g. department-service
+- Administration, health check, equiry etc. with Spring admin and their client into other microservices
+- Configuration managment with Spring Config where configuration are loaded into microservices dynamically with the help of configuration server
+- Eureka service discovery
+- Zuul based gateway and filtering along with Ribbon based load balancing of microservices with service name and routing the request to different instace of microservice avaialble at the time
+- Entire Spring based microservice sample with all aspect
 
 
 Before running:
