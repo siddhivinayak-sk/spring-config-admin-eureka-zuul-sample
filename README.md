@@ -27,3 +27,7 @@ Prerequisite:
 - Java 8 or later
 - Maven 3.5.x
 - Radis server running on 6000 as it has been used into department service
+
+## Support This Project
+
+If you find this project useful, consider supporting my open-source work by [buying me a coffee](https://buymeacoffee.com/siddhivinayak.sk). Your support is greatly appreciated! ☕
